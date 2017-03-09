@@ -1,0 +1,9 @@
+.winner{
+    color: green;
+}
+body{
+    text-align: center;
+    font-family: fantasy;
+    background-image: url("ScoreTracker.jpg");
+    background-size: cover;
+}
